@@ -1,0 +1,4 @@
+0 Bruit de fond
+1 non
+2 oui
+3 songma
